@@ -4,10 +4,81 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link href="./css/style.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="./favicon.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com">  
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+    <title>CV</title>
 </head>
 <body>
-    <h1> Hello, World</h1>
-    <h2> Hellow World</h2>
+   <header class="header">
+        <div class="container header-container"> 
+            <nav class="nav">
+                <ul class="nav-list">
+                  <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                  <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                  <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                  <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                  <li class="nav-item"><a href="#project" class="nav-link">Project</a></li>
+                  <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+                  <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                </ul>
+              </nav>
+        </div>
+    
+    </header>
+   <main class="main">
+         <div class="container main-container">
+            <section class="section section-profile" id="profile">
+                <img src="./img/img1.jpg" alt="" class="section-profile-photo">
+                    <div class="secition-main-profile">
+                        <h1 class="section-title main-title"> Bulat Zagidullin</h1>
+                        <h3 class="section-subtitle"> Student </h3>
+                    </div>
+                    
+
+                
+            </section> 
+            <section class="section section-summary" id="summary">
+                <h2 class="section-title"> Summary</h2>
+                <h3 class="section section-about-me">
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat accusantium corrupti voluptas illo commodi quisquam, ad inventore quia voluptatem neque dolorum quam reiciendis at explicabo, nobis, quo laboriosam omnis facere.
+                </h3>
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <ul class="section ul-skills">
+                    <li class="li-title-skill">HTML</li>
+                    <li class="li-title-skill">CSS</li>
+                    <li class="li-title-skill">Javascript</li>
+                </ul>
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">CODE</h2>
+                <div class="section code">
+                    <code>
+                         "function checkParent (src, dest) {
+                         while (src != null) {
+                           if (src.tagName == dest) return src
+                            src = src.parentElement
+                            }
+                         return null
+                        }"
+                    </code>
+                </div>
+                
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">EDUCATION</h2>
+            </section>
+            
+
+        </div>
+    
+    </main>
+   <footer>
+        <div class="container footer container"> </div>
+   </footer>
 </body>
 </html>
