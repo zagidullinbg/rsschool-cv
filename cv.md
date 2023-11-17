@@ -1,5 +1,11 @@
 ### Булат Загидуллин
+
+*********
+
 #### Контакты для связи
+
+*********
+
 
 *vk: vk.com/vkbulata*
 
@@ -18,6 +24,9 @@
 *I’ve been working in marketing for 4 years, I got burned out, and realized that it had become less interesting to develop in this directioт*
 
 #### Code
+
+*********
+
 
 ```
 int a = 5; 
