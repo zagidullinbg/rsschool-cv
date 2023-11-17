@@ -4,9 +4,9 @@
 *telegrame: t.me/telegabulata*
 *mail: zagidullinbg@gmail.com*
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+#### About me
+
+*My name is Bulat. I’m 26 years old, I started learning programming a long time ago, and now I’m firmly stuck to this job. I want to fully load up and make a result, get to the point of receiving an offer and change my direction.*
+
+*I’ve been working in marketing for 4 years, I got burned out, and realized that it had become less interesting to develop in this directioт*
+
