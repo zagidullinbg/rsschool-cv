@@ -1,8 +1,13 @@
 ### Булат Загидуллин
 #### Контакты для связи
+
 *vk: vk.com/vkbulata*
+
 *telegrame: t.me/telegabulata*
+
 *mail: zagidullinbg@gmail.com*
+
+*location: Kazan*
 
 #### About me
 
