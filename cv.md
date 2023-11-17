@@ -10,3 +10,11 @@
 
 *I’ve been working in marketing for 4 years, I got burned out, and realized that it had become less interesting to develop in this directioт*
 
+#### Code
+
+```
+int a = 5; 
+int b = 3; 
+int c = a + b;
+print(a+b);
+``` 
